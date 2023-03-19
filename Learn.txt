@@ -1,0 +1,56 @@
+* Vanilla Js *
+바닐라 자바스크립트는 JavaScript의 한종류로 Library가 없는것을 얘기한다.
+
+
+자바 스크립트에서는 스페이스를 못 쓰기 때문에 띄어쓰기 할 단어앞글자를 대문자를 써주어야 한다.
+
+// console.log('Im Worikng. Im JS. Im Beautiful. Im worth it');
+
+// let a = 221;
+// let b = a=5 ;
+// a = 4;
+
+// //to do  : finish this [한줄 처리 주석]
+// const what = "Nicolas";
+
+
+/**
+ * 여러줄 주석
+ * 여러줄을 주석으로 만들 수 있다.
+ * 여러줄 주석 입니다*/
+
+Boolean
+const wat = true ;
+
+Number
+const wat = 666 ;
+
+Float
+const wat = 55.1 ;
+
+//Array
+const daysofweek =  잘못된방식
+
+lowerOfWeek
+
+<--------03.09(목)---------------> 공부
+
+Array = 배열
+
+
+const monday = "Mon" ;
+const tue = "Tue" ;
+const wed = "Wed" ;
+const thu = "Thu" ;
+const fri = "Fri" ;
+
+console.log(monday, tue, wed, thu, fri);
+
+어레이로 하나로 묶어보기
+
+arguments라는건 변수같은거다.
+
+resource는 이미지 같은것.
+
+
+
